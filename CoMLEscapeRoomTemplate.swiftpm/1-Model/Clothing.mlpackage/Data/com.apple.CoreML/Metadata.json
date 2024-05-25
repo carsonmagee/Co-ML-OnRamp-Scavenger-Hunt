@@ -1,0 +1,8 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "Model from Image Classifier 3",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "16.4.0"
+  },
+  "MLModelAuthorKey" : "Co-ML"
+}
